@@ -155,6 +155,10 @@ O Bootstrap permite:
 - Necessita customização para identidade visual  
 - Menor liberdade criativa comparado ao Tailwind  
 
+## Link da Apresentação:
+
+👉 [Apresentação](https://www.canva.com/design/DAG_oS3dWBo/vLPiaTgFk6UZc9FcE3lXNQ/view?utm_content=DAG_oS3dWBo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8020592412)
+
 ## 🏁 Conclusão 
 
 O **Bootstrap se apresenta como a opção mais equilibrada** para uso ao longo do semestre, unindo **facilidade de aprendizado, padronização e alinhamento com o mercado**.
